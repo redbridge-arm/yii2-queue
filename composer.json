@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.5.0",
         "yiisoft/yii2": "~2.0.10",
-        "symfony/process": "*"
+        "symfony/process": "v3.4.21"
     },
     "require-dev": {
         "yiisoft/yii2-redis": "*",
